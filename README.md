@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=1A3K9VMBjxk&list=PLLmNg_q93mewjx90hth8-5IvuYaMsJ
 
 ### Slack Channel
 https://join.slack.com/t/raghudevopstrainings/shared_invite/enQtMjkyMDEzNDUzNzc2LTFhYWIyOGRjZmY4Zjg3OTY3NTdhODgxYTYyNGVlNTVjMjcxNzAzM2NmMTRmMDhmNGNhOGE0NDM5N2U2YzA0YzI
+
+
+### AWS Videos.
+https://drive.google.com/drive/folders/1q8zugHGMG5UztdJvIJYzSNV5unDWwUnP
