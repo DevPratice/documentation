@@ -15,3 +15,7 @@ https://join.slack.com/t/raghudevopstrainings/shared_invite/enQtMjkyMDEzNDUzNzc2
 
 ### AWS Videos.
 https://drive.google.com/drive/folders/1q8zugHGMG5UztdJvIJYzSNV5unDWwUnP
+
+
+### Linux Certification Videos.
+https://drive.google.com/open?id=1TSYYDDtZ2UJMmSx1_UmGwiIFmBulFc2W
